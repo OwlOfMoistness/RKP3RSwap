@@ -1,4 +1,4 @@
-pragma solidity ^0.6.12;
+pragma solidity ^0.8.2;
 
 interface IUniswap {
 	function getAmountsOut(uint amountIn, address[] calldata path) external view returns (uint[] memory amounts);

@@ -1,4 +1,4 @@
-pragma solidity ^0.6.12;
+pragma solidity ^0.8.2;
 
 interface ILiquidityPool {
     /// @dev Borrow ETH/ERC20s from the liquidity pool. This function will (1)
